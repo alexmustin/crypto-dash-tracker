@@ -24,6 +24,8 @@ This plugin uses the [CoinGecko API](https://www.coingecko.com/en/api) to get th
 The API endpoint used is: `https://api.coingecko.com/api/v3/coins/markets?vs_currency=usd&order=market_cap_desc&per_page=50`
 Once a successful call is made, the API results will be cached on your site for 2 minutes, to avoid unnecessary bandwidth usage.
 
+CoinGecko Privacy Policy: [https://www.coingecko.com/en/privacy](https://www.coingecko.com/en/privacy)
+
 = Plugin Options =
 - "Crypto Wallet Calculator" Dashboard Widget: Show or Hide
 - "Crypto Wallet Calculator" Dashboard Widget: Enter coins and amounts to be calculated
